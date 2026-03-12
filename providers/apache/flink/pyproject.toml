@@ -61,7 +61,7 @@ dependencies = [
     "apache-airflow>=2.11.0",
     "apache-airflow-providers-common-compat>=1.10.1",
     # TODO(potiuk): We should bump cryptography to >=46.0.0 when sqlalchemy>=2.0 is required
-    "cryptography>=41.0.0,<46.0.0",
+    "cryptography>=41.0.0,<47.0.0",
     "apache-airflow-providers-cncf-kubernetes>=5.1.0",
 ]
 
