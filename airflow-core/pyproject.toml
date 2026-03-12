@@ -87,7 +87,7 @@ dependencies = [
     "cron-descriptor>=1.2.24",
     "croniter>=2.0.2",
     # TODO(potiuk): We should bump cryptography to >=46.0.0 when sqlalchemy>=2.0 is required
-    "cryptography>=41.0.0,<46.0.0",
+    "cryptography>=41.0.0,<47.0.0",
     "deprecated>=1.2.13",
     "dill>=0.2.2",
     "fastapi[standard-no-fastapi-cloud-cli]>=0.129.0",
